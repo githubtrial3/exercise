@@ -1,1 +1,6 @@
 exercise.txt
+
+plans/*
+
+!plans/plan2.txt
+
